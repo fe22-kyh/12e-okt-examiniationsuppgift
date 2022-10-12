@@ -3,6 +3,8 @@ Deadline: 20e Oktober.
 
 Examiniationen för kursen HTML och CSS är att återskapa designen i mockup foldern för mobil och desktop respektive. Bedömningen sker i individuella samtal, se bedömning längre ner.
 
+Se mappen mockups för designen!
+
 ## Specifikation
 
 * Två sidor, Home och Contact
