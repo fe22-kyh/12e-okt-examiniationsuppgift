@@ -12,7 +12,7 @@ Examiniationen för kursen HTML och CSS är att återskapa designen i mockup fol
 * Publicerad på github pages
 * SEO testad. Minsta krav är 90% i SEO Lighthouse.
 
-* Några enkla transitions (Friviligt)
+* Några enkla transitions (Friviligt krav)
 
 ## Färger
 
