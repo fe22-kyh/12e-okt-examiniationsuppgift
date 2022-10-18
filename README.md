@@ -40,7 +40,7 @@ Den 20e Oktober kommer samtliga att delta i individuella samtal under tema webbu
 - Hur implementeras SEO?
 - Hur förhåller sig SCSS till CSS? Skillnader, likheter, fördelar, nackdelar...
 
-Samtalen tar ungefär 10 minuter (15 minuter reserveras). Observar att samtalet syftar på att studerande ska få möjlighet att presentera de kunskaper och förmågor som studerande har samlat på sig under kursens gång, därav är frågorna ovan endast stödfrågor och riktningen av samtalen kan variera.
+Samtalen tar ungefär 10 minuter ~(15 minuter reserveras)~. Observar att samtalet syftar på att studerande ska få möjlighet att presentera de kunskaper och förmågor som studerande har samlat på sig under kursens gång, därav är frågorna ovan endast stödfrågor och riktningen av samtalen kan variera.
 
 ### Betyskriterier
 
