@@ -1,5 +1,5 @@
 # Insurance Project
-Deadline: 20e Oktober.
+Deadline: 21e Oktober 17:00.
 
 Examiniationen för kursen HTML och CSS är att återskapa designen i mockup foldern för mobil och desktop respektive. Bedömningen sker i individuella samtal, se bedömning längre ner.
 
@@ -31,7 +31,7 @@ Se mappen mockups för designen!
 
 # Bedömning
 
-Den 20e Oktober kommer samtliga att delta i individuella samtal under tema webbutbeckling med handledare där följande *stöd*frågor behandlas:
+Den 21a Oktober kommer samtliga att delta i individuella samtal under tema webbutbeckling med handledare där följande *stöd*frågor behandlas:
 
 - Hur används responsive design i webbutveckling?
 - Vilka metoder används för att implementera responsive design?
